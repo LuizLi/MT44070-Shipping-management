@@ -1,12 +1,9 @@
 # MT44070-Shipping-management
 This is the Groupwork files for MT44070
 
-The assignment can be split into three parts:
-
-a. the cost structure of the vessels；
-
-b. the cost structure of the logistics chain;
-
+The assignment can be split into three parts:  
+a. the cost structure of the vessels；  
+b. the cost structure of the logistics chain;  
 c. the impact of using a scrubber or an LNG engine to comply to the ECA zones & the extra cost due to the implementation of FuelEU directive (ETS).
 
 According to the instructions and requirements, the data required for each part has been extracted using the .exe program.
